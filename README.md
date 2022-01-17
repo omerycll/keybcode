@@ -1,4 +1,4 @@
 # Key B Code
 ##### ✨ I make beautiful designs and animations for instagram and youtube videos. ✨
 
-[![N](https://upload.wikimedia.org/wikipedia/commons/thumb/2/2a/Instagram_logo.svg/840px-Instagram_logo.svg.png)](https://www.instagram.com/keybcode/)
+[![N](https://toppng.com/uploads/preview/instagram-logo-transparent-logo-instagram-vector-2021-116177766354twhxoagvv.png)](https://www.instagram.com/keybcode/)
