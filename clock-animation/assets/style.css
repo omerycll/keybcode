@@ -1,0 +1,70 @@
+html {
+  background: #111;
+  overflow: hidden;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  height: 100%;
+}
+
+.loader-cont {
+  height: 480px;
+  width: 480px;
+  position: relative;
+}
+.loader-cont .dots {
+  height: 100%;
+  width: 100%;
+  display: block;
+  border-radius: 50%;
+  position: absolute;
+  top: 0;
+  left: 50%;
+  transform: translateX(-50%);
+}
+.loader-cont .dots span {
+  content: "";
+  display: block;
+  height: 20px;
+  width: 20px;
+  background: white;
+  position: absolute;
+  top: 0;
+  left: 50%;
+  transform: translateX(-50%);
+}
+.loader-cont .dots:nth-child(2) span {
+  top: 20px;
+}
+.loader-cont .dots:nth-child(3) span {
+  top: 40px;
+}
+.loader-cont .dots:nth-child(4) span {
+  top: 60px;
+}
+.loader-cont .dots:nth-child(5) span {
+  top: 80px;
+}
+.loader-cont .dots:nth-child(6) span {
+  top: 100px;
+}
+.loader-cont .dots:nth-child(7) span {
+  top: 120px;
+}
+.loader-cont .dots:nth-child(8) span {
+  top: 140px;
+}
+.loader-cont .dots:nth-child(9) span {
+  top: 160px;
+}
+.loader-cont .dots:nth-child(10) span {
+  top: 180px;
+}
+.loader-cont .dots:nth-child(11) span {
+  top: 200px;
+}
+.loader-cont .dots:nth-child(12) span {
+  top: 220px;
+}
+
+/*# sourceMappingURL=style.css.map */
